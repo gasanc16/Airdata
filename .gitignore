@@ -1,2 +1,3 @@
 *.class
 Java/Airdata/target/*
+Scala/Airdata/lib/
