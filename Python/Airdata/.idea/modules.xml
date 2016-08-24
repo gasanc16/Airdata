@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Airdata.iml" filepath="$PROJECT_DIR$/.idea/Airdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Airdata2/Python/Airdata/.idea/Lunatech.iml" filepath="$PROJECT_DIR$/../../../Airdata2/Python/Airdata/.idea/Lunatech.iml" />
+    </modules>
+  </component>
+</project>
